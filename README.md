@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Napat, a novice software engineer from Japan. My work are mostly in the field of fluid simulation and computer graphics.</p>
+<p align="left">My name is Napat, a novice software engineer based in Japan. My work are mostly in the field of fluid simulation and computer graphics.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Rigorously creating bugs since 2019<br>📚 I'm currently learning realtime rendering development, AWS, and web application in general<br>🎯 Goals: Build cool things and have fun doing so !<br>🎲 Fun fact: I LOVE history, so much that I once considered studying history rather than engineering.</p>
+<p align="left">✨ Rigorously creating bugs since 2019.<br>📚 I'm currently learning realtime rendering, AWS, and web application in general.<br>🎯 Goals: Build cool things and have fun doing so !<br>🎲 Fun fact: I LOVE history, so much that I once considered studying history rather than engineering.</p>
 
 ###
 
