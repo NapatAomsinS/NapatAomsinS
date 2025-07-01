@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Napat, an engineering student and novice software developer based in Japan. My work are mostly in the field of fluid simulation and computer graphics.</p>
+<p align="left">My name is Napat, a junior software developer based in Tokyo. My work are mostly in the field of fluid simulation and computer graphics.</p>
 
 ###
 
